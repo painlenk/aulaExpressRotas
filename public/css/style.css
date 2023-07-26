@@ -1,0 +1,9 @@
+body {
+  background-color: rgb(46, 46, 46);
+  text-align: center;
+}
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+  color: rgb(207, 207, 207);
+}
